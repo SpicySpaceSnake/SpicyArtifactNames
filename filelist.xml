@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Spicetrauma:Spiced-Up Artifact Names" modversion="1.0.0" corepackage="False" gameversion="1.4.6.0">
+  <Text file="%ModDir%/Texts/English/EnglishSpicyArtifactNames.xml"/>
+</contentpackage>
