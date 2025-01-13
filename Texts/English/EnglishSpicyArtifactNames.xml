@@ -1,10 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <infotexts language="English" nowhitespace="false" translatedname="English">
-  <!-- Lightning artifact (Fulgurium) -->
-  <entityname.faradayartifact>Faraday Alien Artifact</entityname.faradayartifact>
+  <!-- Faraday Alien Artifact (Fulgurium) -->
   <entitydescription.faradayartifact>A mysterious artifact found in an alien ruin. Even through a suit, it makes your arm hairs stand on end...</entitydescription.faradayartifact>
-  <!-- Lure artifact (Physicorium) -->
-  <entityname.nasonovartifact>Nasonov Alien Artifact</entityname.nasonovartifact>
+  <!-- Nasonov Alien Artifact (Physicorium) -->
   <entitydescription.nasonovartifact>A mysterious artifact found in an alien ruin. You can't seem to tear your eyes away from its surface...</entitydescription.nasonovartifact>
   <!-- Vacuum artifact; previously "Sky" (Oxygenite) -->
   <entityname.skyholderartifact>Pascal Alien Artifact</entityname.skyholderartifact>
@@ -16,18 +14,15 @@
   <entityname.psychosisartifact>Kraepelin Alien Artifact</entityname.psychosisartifact>
   <entitydescription.psychosisartifact>A mysterious artifact found in an alien ruin. It offers to spill the secrets of the unknown...</entitydescription.psychosisartifact>
 
-  <!-- Oxygenite minor artifact -->
-  <entityname.alientrinket1>Alien Trinket</entityname.alientrinket1>
+  <!-- Alien Trinket (Oxygenite) -->
   <entitydescription.alientrinket1>A minor artifact found in an alien ruin. It manages to somehow remain perfectly dry, even underwater.</entitydescription.alientrinket1>
-  <!-- Sulphurite minor artifact -->
-  <entityname.alientrinket2>Alien Curio</entityname.alientrinket2>
+  <!-- Alien Curio (Sulphurite) -->
   <entitydescription.alientrinket2>A minor artifact found in an alien ruin. Touching it makes your skin sting, but causes no actual damage.</entitydescription.alientrinket2>
-  <!-- Physicorium minor artifact -->
-  <entityname.alientrinket3>Alien Ornament</entityname.alientrinket3>
+  <!-- Alien Ornament (Physicorium) -->
   <entitydescription.alientrinket3>A minor artifact found in an alien ruin. Despite its apparent age, it seems to be almost indestructible.</entitydescription.alientrinket3>
 
-  <entityname.oxygeniteshard>Oxygenite Shard</entityname.oxygeniteshard>
+  <!-- Oxygenite Shard -->
   <entitydescription.oxygeniteshard>A rare, porous alien mineral that seems to be perpetually encased in air. Used in advanced breathing aids.</entitydescription.oxygeniteshard>
-  <entityname.sulphuriteshard>Sulphurite Shard</entityname.sulphuriteshard>
+  <!-- Sulphurite Shard -->
   <entitydescription.sulphuriteshard>A rare alien mineral, unnaturally rough and dangerously corrosive. Used to create permanent enhancement drugs.</entitydescription.sulphuriteshard>
 </infotexts>
