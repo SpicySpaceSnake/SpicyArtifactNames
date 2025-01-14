@@ -9,6 +9,9 @@ Did this mostly because the artifact descriptions bored me; figured it'd be nice
 
 Comes in both English and Latin-American Spanish, because those are the languages I speak. Offers to help translate into other languages are greatly appreciated!
 
+[h3]All of my mods are open-source![/h3]
+Check out the [url=https://github.com/SpicySpaceSnake/SpicyArtifactNames]GitHub repo[/url] to sift through its files and customize your features, or even to contribute to it yourself.
+
 [h3]Large Artifacts[/h3]
 [spoiler]
 All old descs are "Artifact found in alien ruins."
@@ -46,18 +49,13 @@ A rare alien mineral, unnaturally rough and dangerously corrosive. Used to creat
 
 [hr][/hr]
 [h2]Is this mod compatible with X?[/h2]
+This is a relatively unintrusive mod that shouldn't break anything by itself. It can be added or removed during a campaign at any time without issue.
 Descriptions are changed through the translation file rather than the item itself; any mod that edits the item should retain this mod's description, unless the mod edits that too and is above this mod in the list. There should be no breakage whatsoever.
 
 [b]Found a bug? Leave a comment or start a discussion![/b]
 
-[h3][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2776026770]More Artifacts[/url][/h3]
-Doesn't have overlapping translation changes. No conflict.
-
 [h3][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3218219821]Artifacts and Ruins Enhanced[/url][/h3]
 Overrides the descriptions for all large artifacts in both English and LA Spanish (despite the latter still being English?), as well as their names despite them being unchanged from vanilla. Takes a more straightforward, informational approach to descriptions of its effects - place above this mod if you want its changes, place below if you want this mod's changes.
-
-[h3][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2973435246]Artifacts Extended[/url][/h3]
-Doesn't have overlapping translation changes. No conflict.
 
 [hr][/hr]
 [h2]Can you add cross-mod support for X?[/h2]
@@ -74,7 +72,7 @@ As this is a very small mod, there's not much to do except keep on the lookout f
 
 [hr][/hr]
 [h2]Credits go to[/h2]
-[*][b]SpicySpaceSnake[/b] ([url=https://spicyspacesnake.carrd.co/]that's me![/url]): programmer
+[*][b]SpicySpaceSnake[/b] ([url=https://spicyspacesnake.carrd.co/]that's me![/url]): programming, English and LA Spanish translations
 [h3]And a special thanks to[/h3]
 [list]
 [*][b]Kira[/b], for buying me Barotrauma and getting me into it in the first place
