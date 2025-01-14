@@ -1,0 +1,86 @@
+[h1]Spicetrauma:Spiced-Up Artifact Names[/h1]
+is a simple mod that that unifies the naming scheme of alien artifacts, as well as changing the descriptions of various other alien items to be more interesting or in-line with others.
+
+[hr][/hr]
+[h2]What exactly does this mod do?[/h2]
+Changes the names of the three non-scientist artifacts to have the names of scientists, changes the descriptions of [i]all[/i] large and minor artifacts to be more interesting, and changes the descriptions of the Oxygenite Shard and Sulphurite Shard to be more in-line with the other alien materials.
+
+Did this mostly because the artifact descriptions bored me; figured it'd be nice for the hints at their effects to be a bit more subtle, especially to newer players. In the case of the minor artifacts, it helps me remember what they yield when deconstructed. The shards are self-explanatory; why do they have no proper descriptions while Physicorium and others do?
+
+Comes in both English and Latin-American Spanish, because those are the languages I speak. Offers to help translate into other languages are greatly appreciated!
+
+[h3]Large Artifacts[/h3]
+[spoiler]
+All old descs are "Artifact found in alien ruins."
+[b]Faraday Alien Artifact[/b]
+A mysterious artifact found in an alien ruin. Even through a suit, it makes your arm hairs stand on end...
+[b]Nasonov Alien Artifact[/b]
+A mysterious artifact found in an alien ruin. You can't seem to tear your eyes away from its surface...
+[strike]Psychosis[/strike] [b]Kraepelin Alien Artifact[/b]
+A mysterious artifact found in an alien ruin. It offers to spill the secrets of the unknown...
+[strike]Sky[/strike] [b]Pascal Alien Artifact[/b]
+A mysterious artifact found in an alien ruin. It thirsts endlessly for the medium around it...
+[strike]Thermal[/strike] [b]Boltzmann Alien Artifact[/b]
+A mysterious artifact found in an alien ruin. It threatens to vaporize even the surrounding ice-cold water...
+[/spoiler]
+
+[h3]Minor Artifacts[/h3]
+[spoiler]
+All old descs are "Minor artifact found in alien ruins."
+[b]Alien Trinket[/b]
+A minor artifact found in an alien ruin. It manages to somehow remain perfectly dry, even when fully submerged.
+[b]Alien Curio[/b]
+A minor artifact found in an alien ruin. Touching it makes your skin sting, but causes no actual damage.
+[b]Alien Ornament[/b]
+A minor artifact found in an alien ruin. Despite its apparent age, it seems to be almost indestructible.
+[/spoiler]
+
+[h3]Alien Materials[/h3]
+[spoiler]
+All old descs are "An alien mineral."
+[b]Oxygenite Shard[/b]
+A rare, porous alien mineral that seems to be perpetually encased in air. Used in advanced breathing aids.
+[b]Sulphurite Shard[/b]
+A rare alien mineral, unnaturally rough and dangerously corrosive. Used to create permanent enhancement drugs.
+[/spoiler]
+
+[hr][/hr]
+[h2]Is this mod compatible with X?[/h2]
+Descriptions are changed through the translation file rather than the item itself; any mod that edits the item should retain this mod's description, unless the mod edits that too and is above this mod in the list. There should be no breakage whatsoever.
+
+[b]Found a bug? Leave a comment or start a discussion![/b]
+
+[h3][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2776026770]More Artifacts[/url][/h3]
+Doesn't have overlapping translation changes. No conflict.
+
+[h3][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3218219821]Artifacts and Ruins Enhanced[/url][/h3]
+Overrides the descriptions for all large artifacts in both English and LA Spanish (despite the latter still being English?), as well as their names despite them being unchanged from vanilla. Takes a more straightforward, informational approach to descriptions of its effects - place above this mod if you want its changes, place below if you want this mod's changes.
+
+[h3][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2973435246]Artifacts Extended[/url][/h3]
+Doesn't have overlapping translation changes. No conflict.
+
+[hr][/hr]
+[h2]Can you add cross-mod support for X?[/h2]
+Potentially, though I've yet to dabble in pretty much any content mod, and am not familiar with what's out there either. If you have a mod that you want me to add support for, consider reaching out to ask.
+
+I have plans to go into support for More Artifacts and Artifacts Extended, and potentially Artifacts and Ruins Enhanced as a separate compat-patch mod. This will likely happen after I finish my current campaign and get to play through these mods myself.
+
+[hr][/hr]
+[h2]How often does this mod update?[/h2]
+As this is a very small mod, there's not much to do except keep on the lookout for bugs and cross-mod support opportunities. As such, it will only get updated when needed.
+
+[b]CURRENT FOCUS:[/b] future cross-mod support
+[b]CURRENT STATUS:[/b] being passively maintained
+
+[hr][/hr]
+[h2]Credits go to[/h2]
+[*][b]SpicySpaceSnake[/b] ([url=https://spicyspacesnake.carrd.co/]that's me![/url]): programmer
+[h3]And a special thanks to[/h3]
+[list]
+[*][b]Kira[/b], for buying me Barotrauma and getting me into it in the first place
+[*][b]My partners[/b], for being a bunch of absolutely amazing people
+
+[*]and [b]YOU[/b], for taking the time to check out this mod!
+[/list]
+
+Please be sure to rate on your way out, and share this with anyone you think might like it. Happy Barotrauming!
