@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Latinamerican Spanish" nowhitespace="false" translatedname="Español Latinoamericano">
+  <Override>
+    <!-- Faraday Alien Artifact (Fulgurium) -->
+    <entitydescription.faradayartifact>Un artefacto misterioso encontrado en una ruina alienígena. Incluso con un traje puesto, te pone los pelos en punta...</entitydescription.faradayartifact>
+    <!-- Nasonov Alien Artifact (Physicorium) -->
+    <entitydescription.nasonovartifact>Un artefacto misterioso encontrado en una ruina alienígena. No puedes apartar la vista de su superficie...</entitydescription.nasonovartifact>
+    <!-- Psychosis artifact; previously "Psychosis" (Dementonite) -->
+    <entityname.psychosisartifact>Artefacto alienígena de Kraepelin</entityname.psychosisartifact>
+    <entitydescription.psychosisartifact>Un artefacto misterioso encontrado en una ruina alienígena. Ofrece revelar los secretos de lo desconocido...</entitydescription.psychosisartifact>
+    <!-- Vacuum artifact; previously "Sky" (Oxygenite) -->
+    <entityname.skyholderartifact>Artefacto alienígena de Pascal</entityname.skyholderartifact>
+    <entitydescription.skyholderartifact>Un artefacto misterioso encontrado en una ruina alienígena. Tiene sed infinita del medio alrededor...</entitydescription.skyholderartifact>
+    <!-- Fire artifact; previously "Thermal" (Incendium) -->
+    <entityname.thermalartifact>Artefacto alienígena de Boltzmann</entityname.thermalartifact>
+    <entitydescription.thermalartifact>Un artefacto misterioso encontrado en una ruina alienígena. Amenaza con vaporizar hasta el agua helada circundante...</entitydescription.thermalartifact>
+
+    <!-- Alien Trinket (Oxygenite) -->
+    <entitydescription.alientrinket1>Un artefacto menor encontrado en una ruina alienígena. De alguna manera, permanece perfectamente seco, incluso cuando completamente sumergido.</entitydescription.alientrinket1>
+    <!-- Alien Curio (Sulphurite) -->
+    <entitydescription.alientrinket2>Un artefacto menor encontrado en una ruina alienígena. Escuece la piel cuando lo tocas, pero causa ningun daño real.</entitydescription.alientrinket2>
+    <!-- Alien Ornament (Physicorium) -->
+    <entitydescription.alientrinket3>Un artefacto menor encontrado en una ruina alienígena. A pesar su aparente antigüedad, parece casi indestructible.</entitydescription.alientrinket3>
+
+    <!-- Oxygenite Shard -->
+    <entitydescription.oxygeniteshard>Un poroso mineral alienígena que parece estar perpetuamente encajonado en aire. Se utiliza en dispositivos respiratorios avanzados.</entitydescription.oxygeniteshard>
+    <!-- Sulphurite Shard -->
+    <entitydescription.sulphuriteshard>Un mineral alienígena, anormalmente basto y peligrosamente corrosivo. Se utiliza para crear drogas de realce permanente.</entitydescription.sulphuriteshard>
+  </Override>
+</infotexts>
