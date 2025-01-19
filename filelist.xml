@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="Spicetrauma:Spiced-Up Artifact Descriptions" modversion="1.0.0" corepackage="False" gameversion="1.4.6.0">
-  <Text file="%ModDir%/Texts/English/EnglishSpicyArtifactNames.xml"/>
-  <Text file="%ModDir%/Texts/LatinamericanSpanish/LatinamericanSpanishSpicyArtifactNames.xml"/>
+<contentpackage name="Spicetrauma - Spiced-Up Artifact Descriptions" modversion="1.0.1" corepackage="False" steamworkshopid="3410900771" gameversion="1.7.7.0">
+  <Text file="%ModDir%/Texts/English/EnglishSpicyArtifactNames.xml" />
+  <Text file="%ModDir%/Texts/LatinamericanSpanish/LatinamericanSpanishSpicyArtifactNames.xml" />
 </contentpackage>
