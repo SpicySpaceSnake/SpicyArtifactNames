@@ -1,4 +1,4 @@
-[h1]Spicetrauma:Spiced-Up Artifact Names[/h1]
+[h1]Spicetrauma:Spiced-Up Artifact Descriptions[/h1]
 is a simple mod that that unifies the naming scheme of alien artifacts, as well as changing the descriptions of various other alien items to be more interesting or in-line with others.
 
 [hr][/hr]
