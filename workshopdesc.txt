@@ -1,4 +1,4 @@
-[h1]Spicetrauma:Spiced-Up Artifact Descriptions[/h1]
+[h1]Spicetrauma - Spiced-Up Artifact Descriptions 1.0.1[/h1]
 is a simple mod that that unifies the naming scheme of alien artifacts, as well as changing the descriptions of various other alien items to be more interesting or in-line with others.
 
 [hr][/hr]
@@ -13,38 +13,35 @@ Comes in both English and Latin-American Spanish, because those are the language
 Check out the [url=https://github.com/SpicySpaceSnake/SpicyArtifactNames]GitHub repo[/url] to sift through its files and customize your features, or even to contribute to it yourself.
 
 [h3]Large Artifacts[/h3]
-[spoiler]
-All old descs are "Artifact found in alien ruins."
+[spoiler]All old descs are "Artifact found in alien ruins."
 [b]Faraday Alien Artifact[/b]
-A mysterious artifact found in an alien ruin. Even through a suit, it makes your arm hairs stand on end...
+[i]A mysterious artifact found in an alien ruin. Even through a suit, it makes your arm hairs stand on end...[/i]
 [b]Nasonov Alien Artifact[/b]
-A mysterious artifact found in an alien ruin. You can't seem to tear your eyes away from its surface...
+[i]A mysterious artifact found in an alien ruin. You can't seem to tear your eyes away from its surface...[/i]
 [strike]Psychosis[/strike] [b]Kraepelin Alien Artifact[/b]
-A mysterious artifact found in an alien ruin. It offers to spill the secrets of the unknown...
+[i]A mysterious artifact found in an alien ruin. It offers to spill the secrets of the unknown...[/i]
 [strike]Sky[/strike] [b]Pascal Alien Artifact[/b]
-A mysterious artifact found in an alien ruin. It thirsts endlessly for the medium around it...
+[i]A mysterious artifact found in an alien ruin. It thirsts endlessly for the medium around it...[/i]
 [strike]Thermal[/strike] [b]Boltzmann Alien Artifact[/b]
-A mysterious artifact found in an alien ruin. It threatens to vaporize even the surrounding ice-cold water...
+[i]A mysterious artifact found in an alien ruin. It threatens to vaporize even the surrounding ice-cold water...[/i]
 [/spoiler]
 
 [h3]Minor Artifacts[/h3]
-[spoiler]
-All old descs are "Minor artifact found in alien ruins."
+[spoiler]All old descs are "Minor artifact found in alien ruins."
 [b]Alien Trinket[/b]
-A minor artifact found in an alien ruin. It manages to somehow remain perfectly dry, even when fully submerged.
+[i]A minor artifact found in an alien ruin. It manages to somehow remain perfectly dry, even when fully submerged.[/i]
 [b]Alien Curio[/b]
-A minor artifact found in an alien ruin. Touching it makes your skin sting, but causes no actual damage.
+[i]A minor artifact found in an alien ruin. Touching it makes your skin sting, but causes no actual damage.[/i]
 [b]Alien Ornament[/b]
-A minor artifact found in an alien ruin. Despite its apparent age, it seems to be almost indestructible.
+[i]A minor artifact found in an alien ruin. Despite its apparent age, it seems to be almost indestructible.[/i]
 [/spoiler]
 
 [h3]Alien Materials[/h3]
-[spoiler]
-All old descs are "An alien mineral."
+[spoiler]Both old descs are "An alien mineral."
 [b]Oxygenite Shard[/b]
-A rare, porous alien mineral that seems to be perpetually encased in air. Used in advanced breathing aids.
+[i]A rare, porous alien mineral that seems to be perpetually encased in air. Used in advanced breathing aids.[/i]
 [b]Sulphurite Shard[/b]
-A rare alien mineral, unnaturally rough and dangerously corrosive. Used to create permanent enhancement drugs.
+[i]A rare alien mineral, unnaturally rough and dangerously corrosive. Used to create permanent enhancement drugs.[/i]
 [/spoiler]
 
 [hr][/hr]
