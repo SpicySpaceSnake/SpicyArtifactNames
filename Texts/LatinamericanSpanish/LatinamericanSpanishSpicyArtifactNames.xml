@@ -2,17 +2,19 @@
 <infotexts language="Latinamerican Spanish" nowhitespace="false" translatedname="Español Latinoamericano">
   <Override>
     <!-- Faraday Alien Artifact (Fulgurium) -->
+    <entityname.faradayartifact>Artefacto alienígena "Faraday"</entityname.faradayartifact>
     <entitydescription.faradayartifact>Un artefacto misterioso encontrado en una ruina alienígena. Incluso con un traje puesto, te pone los pelos en punta...</entitydescription.faradayartifact>
     <!-- Nasonov Alien Artifact (Physicorium) -->
+    <entityname.nasonovartifact>Artefacto alienígena "Nasonov"</entityname.nasonovartifact>
     <entitydescription.nasonovartifact>Un artefacto misterioso encontrado en una ruina alienígena. No puedes apartar la vista de su superficie...</entitydescription.nasonovartifact>
     <!-- Psychosis artifact; previously "Psychosis" (Dementonite) -->
-    <entityname.psychosisartifact>Artefacto alienígena de Kraepelin</entityname.psychosisartifact>
+    <entityname.psychosisartifact>Artefacto alienígena "Kraepelin"</entityname.psychosisartifact>
     <entitydescription.psychosisartifact>Un artefacto misterioso encontrado en una ruina alienígena. Ofrece revelar los secretos de lo desconocido...</entitydescription.psychosisartifact>
     <!-- Vacuum artifact; previously "Sky" (Oxygenite) -->
-    <entityname.skyholderartifact>Artefacto alienígena de Pascal</entityname.skyholderartifact>
+    <entityname.skyholderartifact>Artefacto alienígena "Pascal"</entityname.skyholderartifact>
     <entitydescription.skyholderartifact>Un artefacto misterioso encontrado en una ruina alienígena. Tiene sed infinita del medio alrededor...</entitydescription.skyholderartifact>
     <!-- Fire artifact; previously "Thermal" (Incendium) -->
-    <entityname.thermalartifact>Artefacto alienígena de Boltzmann</entityname.thermalartifact>
+    <entityname.thermalartifact>Artefacto alienígena "Boltzmann"</entityname.thermalartifact>
     <entitydescription.thermalartifact>Un artefacto misterioso encontrado en una ruina alienígena. Amenaza con vaporizar hasta el agua helada circundante...</entitydescription.thermalartifact>
 
     <!-- Alien Trinket (Oxygenite) -->
