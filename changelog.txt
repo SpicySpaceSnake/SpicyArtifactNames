@@ -1,2 +1,2 @@
-[h1]1.0.1: Hash Hotfix[/h1]
-Hotfix for broken hash.
+[h1]1.0.2: Condensed LA-ES Names[/h1]
+Slightly shortens (and by extension, slightly cleans up) the names of the large alien artifacts in LA Spanish.
