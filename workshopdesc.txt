@@ -1,4 +1,4 @@
-[h1]Spicetrauma - Spiced-Up Artifact Descriptions 1.0.1[/h1]
+[h1]Spicetrauma - Spiced-Up Artifact Descriptions 1.0.2[/h1]
 is a simple mod that that unifies the naming scheme of alien artifacts, as well as changing the descriptions of various other alien items to be more interesting or in-line with others.
 
 [hr][/hr]
@@ -51,8 +51,9 @@ Descriptions are changed through the translation file rather than the item itsel
 
 [b]Found a bug? Leave a comment or start a discussion![/b]
 
-[h3][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3218219821]Artifacts and Ruins Enhanced[/url][/h3]
-Overrides the descriptions for all large artifacts in both English and LA Spanish (despite the latter still being English?), as well as their names despite them being unchanged from vanilla. Takes a more straightforward, informational approach to descriptions of its effects - place above this mod if you want its changes, place below if you want this mod's changes.
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3218219821]Artifacts and Ruins Enhanced[/url]: Edits the descriptions for all large artifacts in both English and LA Spanish (despite the latter still being English?), as well as their names despite them being unchanged from vanilla. Takes a more straightforward, informational approach to descriptions of its effects; whichever mod is higher in the mod list will take priority.
+[/list]
 
 [hr][/hr]
 [h2]Can you add cross-mod support for X?[/h2]
