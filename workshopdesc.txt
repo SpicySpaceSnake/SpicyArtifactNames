@@ -53,6 +53,8 @@ Descriptions are changed through the translation file rather than the item itsel
 
 [list]
 [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3218219821]Artifacts and Ruins Enhanced[/url]: Edits the descriptions for all large artifacts in both English and LA Spanish (despite the latter still being English?), as well as their names despite them being unchanged from vanilla. Takes a more straightforward, informational approach to descriptions of its effects; whichever mod is higher in the mod list will take priority.
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2776026770]More Artifacts (AOCS)[/url]: Compatible, but not cross-supported... yet.
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2973435246]Artifacts Extended Revived[/url]: Compatible, but not cross-supported... yet.
 [/list]
 
 [hr][/hr]
