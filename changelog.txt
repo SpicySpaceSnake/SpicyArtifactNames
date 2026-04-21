@@ -1,2 +1,8 @@
-[h1]1.0.2: Condensed LA-ES Names[/h1]
-Slightly shortens (and by extension, slightly cleans up) the names of the large alien artifacts in LA Spanish.
+[h1]1.0.3: Let's Pretty Things Up[/h1]
+A follow-up update to make descriptions less clunky.
+[quote]
+[h2]Changes[/h2]
+[list]
+[*]Tweaked the descriptions of all large and small artifacts for heightened elegance, clarity, and mystery.
+[/list]
+[/quote]
